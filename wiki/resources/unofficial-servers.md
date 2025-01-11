@@ -113,3 +113,9 @@ description: Unofficial servers related to Discord
 **Credit:** owned by @212844004889329664
 
 @gg/tZNRf7WfBU
+
+## Discord Moderation HQ
+> **Description:** Community to learn how to own a discord server <br/>
+**Link:** [Discord Moderation HQ](https://discord.gg/nTZrfNmygW) <br/>
+**Credit:** owned by @1327479247396278417
+@gg/nTZrfNmygW
